@@ -30,5 +30,5 @@ Soy un desarrollador frontend senior de Castellón de la Plana (Ayacucho/Perú).
 - Web personal [achalmaedison.com](https://rpubs.com/achalmaedison)
 - [LinkedIn](https://www.linkedin.com/in/achalmaedison/)
 - [Medium](https://medium.com/@achalmaedison)
-- [Dev.to](https://dev.to/alextomas80/)
+- [Dev.to](https://dev.to/achalmaedison)
 - [Instagram](https://www.instagram.com/achalmaedison/)
