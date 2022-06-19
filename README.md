@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 -->
 # ¡Hola! Soy E. Edison Achalma Mendoza 👋
 
-Soy un desarrollador frontend senior de Castellón de la Plana (Ayacucho/Perú). Me gusta crear aplicaciones web rápidas con [Vue](https://vuejs.org/) / [React](https://es.reactjs.org/) / [Svelte](https://svelte.dev/), fáciles de usar y construidas con las mejores prácticas.
+¡Hola! Soy Economista en proceso, materialista, científico de datos, desarrollador frontend senior de Ayacucho (Ayacucho/Perú). Escritor en IA, programación, política económica y finanzas. Tambien me gusta crear aplicaciones web rápidas con [Vue](https://vuejs.org/) / [React](https://es.reactjs.org/) / [Svelte](https://svelte.dev/), fáciles de usar y construidas con las mejores prácticas.
+ 
+Escribiré esporádicamente publicaciones de blog cuando encuentre el tiempo. 😅
 
 ## Últimos articulos publicados
 
