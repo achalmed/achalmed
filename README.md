@@ -19,8 +19,8 @@ Soy un desarrollador frontend senior de Castellón de la Plana (Ayacucho/Perú).
 
 ## Últimos articulos publicados
 
-- [Crear un componente en Svelte y publicarlo en NPM]()
-- [El operador SPREAD en JavaScript]()
+- [Definición de ciencia de datos](https://dev.to/achalmaedison/01-defining-data-science-4n0m)
+- [Analizar texto sobre ciencia de datos](https://dev.to/achalmaedison/ejemplo-01-55cc)
 - [Dos formas de unir objetos en JavaScript]()
 - [Condicionales y operadores lógicos en Svelte]()
 - [Cómo crear una galería de imágenes en Svelte]()
