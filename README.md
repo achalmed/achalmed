@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ¡Hola! Soy E. Edison Achalma Mendoza 👋
+# Hello! I am E. Edison Achalma Mendoza 👋
 
 Hello! I am an economist in process, materialist, data scientist, senior frontend developer from Ayacucho (Ayacucho/Peru). Writer in AI, programming, economic policy and finance. I also like to create fast web applications with [Vue](https://vuejs.org/) / [React](https://es.reactjs.org/) / [Svelte](https://svelte.dev/), easy to use and built with best practices.
  
