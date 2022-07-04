@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 # ¡Hola! Soy E. Edison Achalma Mendoza 👋
 
-¡Hola! Soy Economista en proceso, materialista, científico de datos, desarrollador frontend senior de Ayacucho (Ayacucho/Perú). Escritor en IA, programación, política económica y finanzas. Tambien me gusta crear aplicaciones web rápidas con [Vue](https://vuejs.org/) / [React](https://es.reactjs.org/) / [Svelte](https://svelte.dev/), fáciles de usar y construidas con las mejores prácticas.
+Hello! I am an economist in process, materialist, data scientist, senior frontend developer from Ayacucho (Ayacucho/Peru). Writer in AI, programming, economic policy and finance. I also like to create fast web applications with [Vue](https://vuejs.org/) / [React](https://es.reactjs.org/) / [Svelte](https://svelte.dev/), easy to use and built with best practices.
  
-Escribiré esporádicamente publicaciones de blog cuando encuentre el tiempo. 😅
+I will sporadically write blog posts when I find the time. 😅
 
-## Últimos articulos publicados
+## Latest published articles
 
 - [Definición de ciencia de datos](https://dev.to/achalmaedison/01-defining-data-science-4n0m)
 - [Analizar texto sobre ciencia de datos](https://dev.to/achalmaedison/ejemplo-01-55cc)
@@ -27,7 +27,7 @@ Escribiré esporádicamente publicaciones de blog cuando encuentre el tiempo. �
 - [Condicionales y operadores lógicos en Svelte]()
 - [Cómo crear una galería de imágenes en Svelte]()
 
-## Puedes encontrarme en:
+## You can find me at:
 
 - Web personal [achalmaedison.com](https://rpubs.com/achalmaedison)
 - [LinkedIn](https://www.linkedin.com/in/achalmaedison/)
