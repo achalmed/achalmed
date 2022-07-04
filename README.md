@@ -21,15 +21,15 @@ I will sporadically write blog posts when I find the time. 😅
 
 ## Latest published articles
 
-- [Definición de ciencia de datos](https://dev.to/achalmaedison/01-defining-data-science-4n0m)
-- [Analizar texto sobre ciencia de datos](https://dev.to/achalmaedison/ejemplo-01-55cc)
-- [Dos formas de unir objetos en JavaScript]()
-- [Condicionales y operadores lógicos en Svelte]()
-- [Cómo crear una galería de imágenes en Svelte]()
+- [Definition of data science](https://dev.to/achalmaedison/01-defining-data-science-4n0m)
+- [Analyze data science text](https://dev.to/achalmaedison/ejemplo-01-55cc)
+- [Two ways to join objects in JavaScript]()
+- [Conditionals and logical operators in Svelte]()
+- [How to create an image gallery in Svelte]()
 
 ## You can find me at:
 
-- Web personal [achalmaedison.com](https://rpubs.com/achalmaedison)
+- Personal website [achalmaedison.com](https://rpubs.com/achalmaedison)
 - [LinkedIn](https://www.linkedin.com/in/achalmaedison/)
 - [Medium](https://medium.com/@achalmaedison)
 - [Dev.to](https://dev.to/achalmaedison)
