@@ -29,7 +29,7 @@ I will sporadically write blog posts when I find the time. 😅
 
 ## You can find me at:
 
-- Personal website [achalmaedison.com](https://rpubs.com/achalmaedison)
+- Personal website [achalmaedison](https://achalmed.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/achalmaedison/)
 - [Medium](https://medium.com/@achalmaedison)
 - [Dev.to](https://dev.to/achalmaedison)
