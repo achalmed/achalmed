@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hello! I am an economist in process, materialist, data scientist, senior frontend developer from Ayacucho (Ayacucho/Peru). Writer in AI, programming, economic policy and finance. I also like to create fast web applications with [Vue](https://vuejs.org/) / [React](https://es.reactjs.org/) / [Svelte](https://svelte.dev/), easy to use and built with best practices.
 
-If you want to find more about me, I have a webstite with stuff: https://matteocourthoud.github.io/
+If you want to find more about me, I have a webstite with stuff: https://achalmed.github.io/
 
 I will sporadically write blog posts when I find the time. 😅
 
