@@ -13,18 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello! I am E. Edison Achalma Mendoza 👋
+# Hello! I am Edison Achalma Mendoza 👋
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQmDANK_J7UcHUd31lGAUjw?style=social)](https://www.youtube.com/channel/UCQmDANK_J7UcHUd31lGAUjw)
 [![Twitch Status](https://img.shields.io/twitch/status/achalmaedison?style=social)](https://www.twitch.tv/achalmaedison)
 [![Twitter Follow](https://img.shields.io/twitter/follow/achalmaedison?style=social)](https://twitter.com/achalmaedison)
 ![GitHub Followers](https://img.shields.io/github/followers/achalmed?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/achalmed?style=social)
 
-¡Hola! Soy Edison Achalma. Soy economista en proceso, comunista, “programador” con muchas comillas con conocimientos en Hacking y Ciberseguridad entre otros. Me gusta viajar y tomar fotografía tambien me gusta sentarme en la esquina de educación + producto + estrategia. Preferiblemente con un capuchino.
+¡Hola! Soy @achalmaedison, economista en proceso, comunista, “programador” con muchas comillas con conocimientos en Hacking y Ciberseguridad entre otros. Me gusta viajar y tomar fotografía también me gusta sentarme en la esquina, preferiblemente con un capuchino.
 
 Si quieres saber más sobre mí, tengo un sitio web con cosas: https://achalmaedison.netlify.app/
 
-## Latest published articles
+## Últimos artículos publicados
 
 - [Definition of data science](https://dev.to/achalmaedison/01-defining-data-science-4n0m)
 - [Analyze data science text](https://dev.to/achalmaedison/ejemplo-01-55cc)
@@ -75,7 +75,7 @@ Y alguna más...
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achalmed&layout=compact&theme=cobalt&hide_border=true" />
 
-## You can find me at:
+## Puedes encontrarme en:
 
 - Personal website [achalmaedison](https://achalmed.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/achalmaedison/)
@@ -93,7 +93,7 @@ Y alguna más...
 
 
 ---
-<p align="center"> © 2023 Creative Edison Achalma, all rights reserved. Made with ❤️ for a better web. </p>
+<p align="center"> © 2023 Creative Edison Achalma, todos los derechos reservados. Hecho con ❤️ para un mundo mejor.</p>
 <p align="center">
 https://achalmed.github.io
 </p>
