@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 
 ¡Hola! Soy Edison Achalma. Soy economista en proceso, comunista, “programador” con muchas comillas con conocimientos en Hacking y Ciberseguridad entre otros. Me gusta viajar y tomar fotografía tambien me gusta sentarme en la esquina de educación + producto + estrategia. Preferiblemente con un capuchino.
 
-If you want to find more about me, I have a webstite with stuff: https://achalmed.github.io/
-
-I will sporadically write blog posts when I find the time. 😅
+Si quieres saber más sobre mí, tengo un sitio web con cosas: https://achalmaedison.netlify.app/
 
 ## Latest published articles
 
@@ -95,7 +93,7 @@ Y alguna más...
 
 
 ---
-<p align="center"> © 2022 Creative Edison Achalma, all rights reserved. Made with ❤️ for a better web. </p>
+<p align="center"> © 2023 Creative Edison Achalma, all rights reserved. Made with ❤️ for a better web. </p>
 <p align="center">
 https://achalmed.github.io
 </p>
