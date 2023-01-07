@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![GitHub Followers](https://img.shields.io/github/followers/achalmed?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/achalmed?style=social)
 
-Hello! I am an economist in process, materialist, data scientist, senior frontend developer from Ayacucho (Ayacucho/Peru). Writer in AI, programming, economic policy and finance. I also like to create fast web applications with [Vue](https://vuejs.org/) / [React](https://es.reactjs.org/) / [Svelte](https://svelte.dev/), easy to use and built with best practices.
+¡Hola! Soy Edison Achalma. Soy economista en proceso, comunista, “programador” con muchas comillas con conocimientos en Hacking y Ciberseguridad entre otros. Me gusta viajar y tomar fotografía tambien me gusta sentarme en la esquina de educación + producto + estrategia. Preferiblemente con un capuchino.
 
 If you want to find more about me, I have a webstite with stuff: https://achalmed.github.io/
 
