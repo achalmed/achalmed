@@ -94,5 +94,5 @@ Y alguna más...
 ---
 <p align="center"> © 2023 Creative Edison Achalma, todos los derechos reservados. Hecho con ❤️ para un mundo mejor.</p>
 <p align="center">
-https://achalmed.github.io
+https://achalmaedison.netlify.app/
 </p>
