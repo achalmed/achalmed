@@ -77,7 +77,6 @@ Y alguna más...
 
 ## Puedes encontrarme en:
 
-- Personal website [achalmaedison](https://achalmed.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/achalmaedison/)
 - [Medium](https://medium.com/@achalmaedison)
 - [Dev.to](https://dev.to/achalmaedison)
