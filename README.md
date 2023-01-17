@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![GitHub Followers](https://img.shields.io/github/followers/achalmed?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/achalmed?style=social)
 
-¡Hola! Soy @achalmaedison, economista en proceso, comunista, “programador” con muchas comillas con conocimientos en Hacking y Ciberseguridad entre otros. Me gusta viajar y tomar fotografía también me gusta sentarme en la esquina, preferiblemente con un capuchino.
+¡Hola! Soy @achalmaedison, economista en proceso, “programador” con muchas comillas con conocimientos en Hacking y Ciberseguridad entre otros. Me gusta viajar y tomar fotografía también me gusta sentarme en la esquina, preferiblemente con un capuchino.
 
 Si quieres saber más sobre mí, tengo un sitio web con cosas: https://achalmaedison.netlify.app/
 
