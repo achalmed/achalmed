@@ -64,6 +64,7 @@ Y alguna más...
 
 ## Puedes encontrarme en:
 
+- [Twitter](https://twitter.com/achalmaedison)
 - [LinkedIn](https://www.linkedin.com/in/achalmaedison/)
 - [Medium](https://medium.com/@achalmaedison)
 - [Dev.to](https://dev.to/achalmaedison)
