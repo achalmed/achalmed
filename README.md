@@ -26,12 +26,16 @@ Si quieres saber más sobre mí, visita mi sitio web: [www.achalmaedison.app](ht
 
 ## Últimos artículos publicados
 
+- [Perspectivas Monetarias Globales. Análisis de Regímenes Cambiarios y el Futuro del FMI](https://achalmaedison.netlify.app//docs/blog/posts/2023-06-17-sistema-monetario-internacional-fi2)
+- [Perspectivas Globales. Explorando los Fundamentos y Alcances de las Finanzas Internacionales](https://achalmaedison.netlify.app//docs/blog/posts/2023-06-16-globalizacion-finanzas-internacionales-fi1)
+- [El Mercado Relevante Industrial de Bienes y el Mercado Geográfico](https://achalmaedison.netlify.app//docs/blog/posts/2023-06-15-mercado-relevante-oi-cap-2)
+- [La Empresa como Organización. Promoviendo Valores Cooperativos, Humanos y Sociales](https://achalmaedison.netlify.app//docs/blog/posts/2023-06-13-empresa-como-organizacion)
+- [Introducción a los Sistemas Económicos. Cómo se distribuyen los recursos y se producen](https://achalmaedison.netlify.app//docs/blog/posts/2023-06-13-sistemas-economicos)
+- [Lo que debemos saber de R](https://achalmaedison.netlify.app//docs/blog/posts/2023-06-10-3-debemos-saber-r)
+- [Instalación de R en Linux](https://achalmaedison.netlify.app/docs/blog/posts/2023-06-10-1-instalacion-r/)
+- [Naturaleza Humana y su impacto político, sesgos científicos. Más allá de los Límites Impuestos](https://achalmaedison.netlify.app/docs/blog/posts/2023-06-09-naturaleza-humana/)
 - [Definition of data science](https://dev.to/achalmaedison/01-defining-data-science-4n0m)
 - [Analyze data science text](https://dev.to/achalmaedison/ejemplo-01-55cc)
-- [Two ways to join objects in JavaScript]()
-- [Conditionals and logical operators in Svelte]()
-- [How to create an image gallery in Svelte]()
-
 ## Tecnologías:
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
