@@ -42,20 +42,8 @@ Si quieres saber más sobre mí, visita mi sitio web: [www.achalmaedison.com](ht
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
 </p>
 
 Y alguna más...
@@ -84,7 +72,7 @@ Y alguna más...
 
 
 ---
-<p align="center"> © 2023 Creative Edison Achalma, todos los derechos reservados. Hecho con ❤️ para un mundo mejor.</p>
+<p align="center"> © 2024 Creative Edison Achalma, todos los derechos reservados. Hecho con ❤️ para un mundo mejor.</p>
 <p align="center">
 https://achalmaedison.netlify.app/
 </p>
