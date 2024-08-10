@@ -31,11 +31,6 @@ Si quieres saber más sobre mí, visita mi sitio web: [www.achalmaedison.com](ht
 - [El Mercado Relevante Industrial de Bienes y el Mercado Geográfico](https://achalmaedison.netlify.app//docs/blog/posts/2023-06-15-mercado-relevante-oi-cap-2)
 - [La Empresa como Organización. Promoviendo Valores Cooperativos, Humanos y Sociales](https://achalmaedison.netlify.app//docs/blog/posts/2023-06-13-empresa-como-organizacion)
 - [Introducción a los Sistemas Económicos. Cómo se distribuyen los recursos y se producen](https://achalmaedison.netlify.app//docs/blog/posts/2023-06-13-sistemas-economicos)
-- [Lo que debemos saber de R](https://achalmaedison.netlify.app//docs/blog/posts/2023-06-10-3-debemos-saber-r)
-- [Instalación de R en Linux](https://achalmaedison.netlify.app/docs/blog/posts/2023-06-10-1-instalacion-r/)
-- [Naturaleza Humana y su impacto político, sesgos científicos. Más allá de los Límites Impuestos](https://achalmaedison.netlify.app/docs/blog/posts/2023-06-09-naturaleza-humana/)
-- [Definition of data science](https://dev.to/achalmaedison/01-defining-data-science-4n0m)
-- [Analyze data science text](https://dev.to/achalmaedison/ejemplo-01-55cc)
 ## Tecnologías:
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -59,20 +54,14 @@ Y alguna más...
 - [Twitter](https://twitter.com/achalmaedison)
 - [LinkedIn](https://www.linkedin.com/in/achalmaedison/)
 - [Medium](https://medium.com/@achalmaedison)
-- [Dev.to](https://dev.to/achalmaedison)
 - [Instagram](https://www.instagram.com/achalmaedison/)
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
-
 ## Buy me a coffee:
 <a href="https://www.buymeacoffee.com/achalmaedison" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-
 ---
 <p align="center"> © 2024 Creative Edison Achalma, todos los derechos reservados. Hecho con ❤️ para un mundo mejor.</p>
-<p align="center">
-https://achalmaedison.netlify.app/
-</p>
