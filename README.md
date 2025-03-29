@@ -36,9 +36,6 @@ Si quieres saber más sobre mí, visita mi sitio web: [www.achalmaedison.com](ht
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-Y alguna más...
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=achalmed&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 
