@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edison Achalma Mendoza 👋</h1>
-<h3 align="center">¡Hola! Soy @achalmed, estudiante de Economía en la Universidad Nacional de San Cristóbal de Huamanga, Ayacucho. Me apasiona la ciberseguridad, la ciencia de datos y las matemáticas, y comparto mis ideas en mi blog. Disfruto viajar, tomar fotografías 📸 y relajarme con un capuchino ☕.</h3>
+<h3 align="center">¡Hola! Soy @achalmed, economista convertido en informático, curioso por todas las intersecciones de los datos y la sociedad..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achalmed&label=Profile%20views&color=0e75b6&style=flat" alt="achalmed" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achalmed" alt="achalmed" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/achalmaedison" target="blank"><img src="https://img.shields.io/twitter/follow/achalmaedison?logo=twitter&style=for-the-badge" alt="achalmaedison" /></a> </p>
 
 - 🔭 I’m currently working on [Website Achalma](https://github.com/achalmed/website-achalma)
 
@@ -27,7 +23,8 @@
 
 - ⚡ Fun fact **¡Creo que las mejores ideas surgen con un capuchino en la mano y una buena vista de las montañas!**
 
-### Blogs posts
+### Lastest Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -49,6 +46,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/achalmaedison"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="achalmaedison" /></a></p><br><br>
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achalmed&show_icons=true&locale=en&layout=compact" alt="achalmed" /></p>
 
