@@ -26,7 +26,6 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Análisis del Conflicto Minero en Las Bambas](https://achalmaedison.netlify.app/blog/posts/2025-06-18-conflicto-minero-en-las-bambas-peru/)
 - [Economía Peruana 1970-1990](https://achalmaedison.netlify.app/blog/posts/2023-05-12-la-economia-peruana-entre-1970-1990/)
 - [Impacto del Cambio Climático en Perú](https://achalmaedison.netlify.app/blog/posts/2022-06-02-impacto-del-cambio-climatico/)
