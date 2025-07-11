@@ -27,10 +27,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Análisis del Conflicto Minero en Las Bambas](https://achalmaedison.netlify.app/blog/posts/2025-06-18-conflicto-minero-en-las-bambas-peru/)
+- [[No Title] - Post](https://achalmaedison.netlify.app/blog/posts/2023-05-16-economia-regional/)
 - [Economía Peruana 1970-1990](https://achalmaedison.netlify.app/blog/posts/2023-05-12-la-economia-peruana-entre-1970-1990/)
 - [Impacto del Cambio Climático en Perú](https://achalmaedison.netlify.app/blog/posts/2022-06-02-impacto-del-cambio-climatico/)
 - [Economía Agraria y Rural en el Perú](https://achalmaedison.netlify.app/blog/posts/2022-04-22-economia-agraria/)
-- [Guía para Comenzar a Crear Sitios Web con Blogdown](https://achalmaedison.netlify.app/blog/posts/2021-07-14-comandos-de-blogdown/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
