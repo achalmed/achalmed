@@ -1,15 +1,15 @@
 name: Latest blog post workflow
 on:
-  schedule:
-    - cron: '0 */12 * * *' # Cada 12 horas
-  workflow_dispatch:
+  schedule: # Run workflow automatically
+    - cron: '0 */12 * * *' # Runs cada 12 horas
+  workflow_dispatch: # Run workflow manually
 
 permissions:
-  contents: write
+  contents: write # To write the generated contents to the readme
 
 jobs:
   update-readme-with-blog:
-    name: Update README with latest blog posts
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -32,8 +32,9 @@ jobs:
             https://numerus-scriptum.netlify.app/index.xml
             https://chaska-x.netlify.app/index.xml
           max_post_count: 10
-          retry_count: 5
+          retry_count: 3
           retry_wait_time: 5
-          commit_message: "📝 Actualizado con las últimas publicaciones"
+          disable_item_validation: false
+          commit_message: "📝 Actualizado con las últimas publicaciones del blog"
           committer_username: "blog-post-bot"
           committer_email: "blog-post-bot@example.com"
