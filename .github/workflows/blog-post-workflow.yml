@@ -19,4 +19,14 @@ jobs:
           feed_list: |
             https://achalmaedison.netlify.app/blog/index.xml
             https://epsilon-y-beta.netlify.app/index.xml
-          
+            https://dialectica-y-mercado.netlify.app/index.xml
+            https://pecunia-fluxus.netlify.app/index.xml
+            https://actus-mercator.netlify.app/index.xml
+            https://res-publica.netlify.app/index.xml
+            https://methodica.netlify.app/index.xml
+            https://aequilibria.netlify.app/index.xml
+            https://axiomata.netlify.app/index.xml
+            https://optimums.netlify.app/index.xml
+            https://numerus-scriptum.netlify.app/index.xml
+            https://chaska-x.netlify.app/index.xml
+            
