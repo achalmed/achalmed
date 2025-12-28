@@ -5,7 +5,6 @@ on:
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
   contents: write # To write the generated contents to the readme
-
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -17,7 +16,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: |
-            https://achalmaedison.netlify.app/blog/index.xml
+            https://achalmaedison.netlify.app/index.xml
             https://epsilon-y-beta.netlify.app/index.xml
             https://dialectica-y-mercado.netlify.app/index.xml
             https://pecunia-fluxus.netlify.app/index.xml
@@ -29,4 +28,3 @@ jobs:
             https://optimums.netlify.app/index.xml
             https://numerus-scriptum.netlify.app/index.xml
             https://chaska-x.netlify.app/index.xml
-            
