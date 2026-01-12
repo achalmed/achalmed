@@ -19,7 +19,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: |
-            https://achalmaedison.netlify.app/blog/index.xml
+            https://chaska-x.netlify.app/index.xml
           max_post_count: 10
           retry_count: 3
           retry_wait_time: 5
