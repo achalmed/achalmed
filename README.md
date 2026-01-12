@@ -24,11 +24,16 @@ Soy **@achalmaedison**, apasionado por las intersecciones entre economía, tecno
 ### 📝 Últimas publicaciones
 
 <!-- BLOG-POST-LIST:START -->
-- [Economía peruana 1970-1990](https://achalmaedison.netlify.app/blog/posts/2023-05-12-la-economia-peruana-entre-1970-1990/)
-- [Impacto económico cambio climático](https://achalmaedison.netlify.app/blog/posts/2022-06-02-impacto-del-cambio-climatico/)
-- [Fundamentos de economía agraria](https://achalmaedison.netlify.app/blog/posts/2022-04-22-economia-agraria/)
-- [Comandos útiles Google Assistant](https://achalmaedison.netlify.app/blog/posts/2020-05-23-comandos-de-google-assistant/)
-- [Sitios web increíbles recomendados](https://achalmaedison.netlify.app/blog/posts/2017-04-23-sitios-web-asombrosos/)
+- [Guía Completa de Positron IDE](https://chaska-x.netlify.app/operating-system/2025-12-31-guia-de-positron-ide/)
+- [Guía Completa de Kitty Terminal](https://chaska-x.netlify.app/operating-system/2025-12-31-guia-de-kitty-terminal/)
+- [Guía Completa de Ranger](https://chaska-x.netlify.app/operating-system/2025-12-30-guia-de-ranger/)
+- [Gestiona dotfiles fácilmente con GNU Stow](https://chaska-x.netlify.app/operating-system/2025-07-10-gestiona-tus-dotfiles-con-gnu-stow/)
+- [Ejecutando payloads en ethical hacking](https://chaska-x.netlify.app/ciberseguridad-ethical-hacking-ceh/2024-09-03-ejecutando-payload/)
+- [Instalación de Specitify en Linux fácilmente](https://chaska-x.netlify.app/operating-system/2024-07-15-instalando-specitify/)
+- [Atajos y comandos avanzados de Vim](https://chaska-x.netlify.app/operating-system/2023-07-01-atajos-de-teclado-y-comandos-para-usar-vim/)
+- [Administración de particiones y volúmenes](https://chaska-x.netlify.app/operating-system/2023-06-20-04-administracion-particiones-volumenes/)
+- [Instalación paso a paso de Linux](https://chaska-x.netlify.app/operating-system/2023-06-19-03-instalacion-linux/)
+- [Principales distribuciones Linux](https://chaska-x.netlify.app/operating-system/2023-06-18-02-distribuciones-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
