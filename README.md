@@ -24,6 +24,7 @@ Soy **@achalmaedison**, apasionado por las intersecciones entre economía, tecno
 ### 📝 Últimas publicaciones
 
 <!-- BLOG-POST-LIST:START -->
+- [[No Title] - Post](https://chaska-x.netlify.app/operating-system/2026-04-23-guia-de-rsync/)
 - [Guía Completa de Positron IDE](https://chaska-x.netlify.app/operating-system/2025-12-31-guia-de-positron-ide/)
 - [Guía Completa de Kitty Terminal](https://chaska-x.netlify.app/operating-system/2025-12-31-guia-de-kitty-terminal/)
 - [Guía Completa de Ranger](https://chaska-x.netlify.app/operating-system/2025-12-30-guia-de-ranger/)
@@ -33,7 +34,6 @@ Soy **@achalmaedison**, apasionado por las intersecciones entre economía, tecno
 - [Atajos y comandos avanzados de Vim](https://chaska-x.netlify.app/operating-system/2023-07-01-atajos-de-teclado-y-comandos-para-usar-vim/)
 - [Administración de particiones y volúmenes](https://chaska-x.netlify.app/operating-system/2023-06-20-04-administracion-particiones-volumenes/)
 - [Instalación paso a paso de Linux](https://chaska-x.netlify.app/operating-system/2023-06-19-03-instalacion-linux/)
-- [Principales distribuciones Linux](https://chaska-x.netlify.app/operating-system/2023-06-18-02-distribuciones-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
