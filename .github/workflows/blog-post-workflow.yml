@@ -13,13 +13,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          # El feed del blog del sitio (2026-10-22): el de chaska dejó de existir al pasar los pubs a la vitrina del aula.
           feed_list: |
-            https://chaska-x.netlify.app/index.xml
+            https://achalmaedison.netlify.app/blog/index.xml
           max_post_count: 10
           retry_count: 3
           retry_wait_time: 5
