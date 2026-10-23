@@ -77,6 +77,11 @@ libros de curso en LaTeX ([CampusTeX](https://github.com/achalmed/CampusTeX-Rese
 ### Últimas publicaciones
 
 <!-- BLOG-POST-LIST:START -->
+- [Economía peruana 1970-1990](https://achalmaedison.netlify.app/blog/posts/2023-05-12-la-economia-peruana-entre-1970-1990/)
+- [Impacto económico cambio climático](https://achalmaedison.netlify.app/blog/posts/2022-06-02-impacto-del-cambio-climatico/)
+- [Fundamentos de economía agraria](https://achalmaedison.netlify.app/blog/posts/2022-04-22-economia-agraria/)
+- [Comandos útiles Google Assistant](https://achalmaedison.netlify.app/blog/posts/2020-05-23-comandos-de-google-assistant/)
+- [Sitios web increíbles recomendados](https://achalmaedison.netlify.app/blog/posts/2017-04-23-sitios-web-asombrosos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
